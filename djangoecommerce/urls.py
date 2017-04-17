@@ -25,4 +25,4 @@ urlpatterns = [
     url(r'^produtos/$', views.product_list, name='product_list'),
     url(r'^admin/', admin.site.urls),
 ]
-# testando git
+# testando Heroku agora
